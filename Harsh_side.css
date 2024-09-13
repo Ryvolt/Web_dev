@@ -11,3 +11,8 @@ ul{
 h1{
     background-color: aqua;
 }
+@media screen and (max-width: 375px)and (min-width: 320px) {
+    img{
+        aspect-ratio:3/4;
+    }
+}
