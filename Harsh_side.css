@@ -1,3 +1,24 @@
+@font-face{
+    src: url(fonts/PlaywriteCU-Regular.ttf);
+    font-family: "Pcu";
+}
+@font-face {
+    font-family: Sos;
+    src: url(fonts/SofadiOne-Regular.ttf);
+}
+@font-face {
+    font-family: Oswald;
+    src: url(fonts/Oswald-Regular.ttf);
+}
+body{
+    font-family: "Pcu","Oswald";
+}
+nav{
+    font-family: "Sos";
+}
+h1{
+    font-family: "oswald";
+}
 a{
     text-decoration: none;
     color: white;
